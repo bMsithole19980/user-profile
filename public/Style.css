@@ -1,0 +1,40 @@
+/* styles.css */
+.login {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    top: 40;
+  }
+  .login h1{
+    text-align: center;
+  }
+  
+  .login label{
+    font-size: 17px;
+
+  }
+  .login input {
+    display: block;
+    margin-bottom: 10px;
+  
+  }
+  
+  .login input {
+    width: 100%;
+    padding: 8px;
+  }
+  
+  .login button {
+    width: 50%;
+    margin-left: 20%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 24px;
+  }
+  
